@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc (Oxon), PhD (Cantab)
-<br>
-<a href="https://www.mrc-epid.cam.ac.uk/people/yajie-zhao/"> MRC Postdoctoral Fellow </a>
+subtitle: MSc (Oxon), PhD (Cantab) <br> <a href="https://www.mrc-epid.cam.ac.uk/people/yajie-zhao/"> MRC Postdoctoral Fellow </a>
 
 profile:
   align: right
