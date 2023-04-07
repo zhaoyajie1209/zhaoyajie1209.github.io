@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-4
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Start the role as MRC Postdoctoral Fellow in MRC Epidemiology Unit.
