@@ -6,7 +6,7 @@ subtitle: MSc (Oxon), PhD (Cantab) <br> <a href="https://www.mrc-epid.cam.ac.uk/
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 微信图片_20230407223703.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>MRC Epidemiology Unit</p>
