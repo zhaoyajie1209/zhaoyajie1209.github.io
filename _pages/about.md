@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.mrc-epid.cam.ac.uk/people/yajie-zhao/">MRC Postdoctoral Fellow</a>. 
+subtitle: <a href="https://www.mrc-epid.cam.ac.uk/people/yajie-zhao/"> MRC Postdoctoral Fellow </a>. 
 
 profile:
   align: right
