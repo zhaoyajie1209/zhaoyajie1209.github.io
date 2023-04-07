@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://www.mrc-epid.cam.ac.uk/people/yajie-zhao/">MRC Postdoctoral Fellow</a>. 
 
 profile:
   align: right
