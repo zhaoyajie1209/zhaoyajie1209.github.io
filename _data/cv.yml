@@ -80,14 +80,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: "Mosaic loss of the X/Y chromosome."
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "Mosaic loss of the X/Y chromosome (mLOX/Y) is the most common form of somatic mosaicism for females and males, respectively. The genetic causes and phenotypic consequences of these events are still unclear. I have developed a formula to combine different mosaic loss of the X/Y chromosome(mLOX/Y) measurement based on SNP-array and high throughput sequencing data and applied it on large trans-ethnic cohorts to reveal the genetic architecture of mLOX/Y through GWAS and Exome-wide burden analysis. Using this approach, I have found genes associated with mLOX/Y. Disruption of these genes can substantially increase the risk to have mLOY and my future work will combine dry lab work and wet lab work to investigate the mechanism behind mLOX/Y."
+    - title: "How rare variants affect human traits."
       items:
-        - Description 1.
-        - Description 2.
+        - "The decreased cost of sequencing and its application to large research cohorts provide a chance to systematically explore how rare coding variants affect human traits. I have designed, implemented, and utilised software to identify genetic associations in a cohort of 200K humans from the UK Biobank study. I am interested in applying these tools to larger and more diverse populations to identify gene-phenotype associations and develop these findings into novel therapeutic targets."
 
 - title: Other Interests
   type: list
