@@ -18,4 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a human geneticist working in MRC Epidemiology Unit, University of Cambridge. My research tries to link diseases or phenotypes to their causal genes. 
+I am a human geneticist working in MRC Epidemiology Unit, University of Cambridge. 
+
+I focus on linking diseases and phenotypes to their genetic causes using data from large cohorts.
+
+Alongside my academic work, I also pursue my interests in science journalism and photography on a part-time basis.
+
+
+
+
