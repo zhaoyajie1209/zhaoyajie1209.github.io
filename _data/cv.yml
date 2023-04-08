@@ -2,55 +2,57 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yajie Zhao
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Medical Science at MRC Epidemiology Unit
+      institution: University of Cambridge, Cambridge
+      year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis title: Detection, causes and consequences of sex chromosome mosaicism
+    - title: MSc in Mathematical Sciences
+      institution: University of Oxford, Oxford
+      year: 2018 - 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Dissertation title: The RAPIDD Ebola forecasting challenge: epidemiological insights and statistical performance
+    - title: BSc in Mathematics, Operational Research, Statistics and Economics (MORSE)
+      institution: University of Warwick, Coventry
+      year: 2015 - 2018
+      description:
+        - grade: 1st Class Honours
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: MRC Postdoctoral Fellow
+      institution: MRC Epidemiology Unit, University of Cambridge
+      year: 2022 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Utilising such data in the UK Biobank study to identify rare, protein-coding, genetic variants associated with obesity to highlight novel genes and biological mechanisms.
+        - Developing new computational pipelines and methods to perform quality control and analysis on billions of data points in half a million study participants.
+        - Genes highlighted by these analyses will then be shared with experimental collaborators, both internally in Cambridge and externally, to gain further mechanistic insight in animal and cellular models.
+   
+   - title: Graduate Student
+      institution: MRC Epidemiology Unit, University of Cambridge
+      year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Testing and implementing bioinformatic software to estimate somatic mosaicisms.
+        - Designing pipeline to conduct exome-wide analysis.
+        - Undertaking the microarray-data based genome-wide analysis and sequencing-data based exome-wide analysis.
+        - Building collaborations with other large cohorts including China Kadoorie Biobank and Taiwan Biobank and wet labs.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Initiator and Organiser
+      institution: Human Genetics Network
+      year: 2022 -now
+      description:
+        - Building the communication network for the researchers interested in human genetics.
+        - Organising the weekly talks delivered by the world-leading researchers and the early-career scholars in human genetics and related areas.
+        - Undertaking the microarray-data based genome-wide analysis and sequencing-data based exome-wide analysis.
+        - Managing the social media accounts to advertise talks and attract more researchers to join the network.
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
