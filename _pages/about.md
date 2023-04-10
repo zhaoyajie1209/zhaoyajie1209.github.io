@@ -24,6 +24,10 @@ I focus on linking diseases and phenotypes to their genetic causes using data fr
 
 Alongside my academic work, I also pursue my interests in science journalism and photography on a part-time basis.
 
+Ars longa, vita brevis.
+
+
+
 
 
 
